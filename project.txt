@@ -3,4 +3,5 @@ git checkout -b feature/login
 I complete featureB
 I complete featureC
 test conflict
+I am coming, baby!
 
